@@ -1,0 +1,8 @@
+[Thu Aug 28 16:50:07 2025] Deposit R1000 ->  
+[Thu Aug 28 16:50:13 2025] Deposit R500 ->  
+[Thu Aug 28 16:50:18 2025] Withdrawal R120 ->  
+[Thu Aug 28 16:50:36 2025] Withdrawal R200 ->  
+[Thu Aug 28 16:50:36 2025] Deposit R200 ->  
+[Thu Aug 28 16:50:36 2025] Transfer R200 -> ACC126613
+[Thu Aug 28 16:52:08 2025] Withdrawal R500 ->  
+[Thu Aug 28 16:52:08 2025] Transfer R500 -> ACC126756
